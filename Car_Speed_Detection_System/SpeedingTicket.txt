@@ -1,0 +1,464 @@
+Speeding Ticket!
+Detected Speed:3860.82 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5121.01 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5074.07 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4837.17 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4803.85 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4297.85 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4255.25 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4103.05 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4111.11 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:3924.52 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:3877.40 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4490.94 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:3814.93 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4490.88 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4408.26 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4373.91 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4954.47 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4891.66 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4586.36 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4550.13 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4483.42 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4476.29 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4372.89 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4294.41 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4169.97 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4097.98 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4007.91 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:3985.27 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4320.19 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4316.69 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:3839.62 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:3839.01 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4891.87 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4893.18 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4650.72 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4638.01 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4323.97 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4320.57 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4566.38 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5602.67 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5536.56 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5511.21 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5459.49 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5415.26 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4549.64 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5194.54 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4544.82 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4547.53 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4461.46 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4448.29 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4384.84 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4376.51 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4164.99 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4167.60 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4020.58 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4017.01 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4057.71 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4991.82 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:6073.23 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:6054.73 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4547.99 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4664.71 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4233.64 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4761.82 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5271.80 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5280.11 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5148.04 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5090.82 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4831.05 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4890.49 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4658.69 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4651.34 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4490.39 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4467.78 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4301.03 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4287.65 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4157.61 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4170.80 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4033.89 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4051.62 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:3883.87 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:3892.98 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5791.01 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5053.80 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5082.89 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5049.90 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5006.36 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:4990.62 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5069.65 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5047.94 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5095.93 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5141.69 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5075.80 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5071.59 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5223.65 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5201.27 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5247.86 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5235.46 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5270.65 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5298.76 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5322.10 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5316.43 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5337.90 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5307.64 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5348.38 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5344.90 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5353.87 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5331.68 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5316.71 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5306.89 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5314.24 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5299.41 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5267.50 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5252.77 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5270.09 km/h
+Fine Amount:$25
+
+Speeding Ticket!
+Detected Speed:5280.17 km/h
+Fine Amount:$25
+
