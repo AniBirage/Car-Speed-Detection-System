@@ -56,7 +56,12 @@ This project aims to detect the speed of cars in a video using a pre-trained SSD
 
 You can adjust these values in the `CarSpeedDetection(SSD).py` file according to your requirements.
 
-## Contributing
+## Acknowledgments
 
-Feel free to contribute to this project by submitting issues or pull requests. Please ensure that your code adheres to the existing style and that it passes the existing tests.
+This project uses the following libraries and resources:
 
+- [OpenCV](https://opencv.org/)
+- [NumPy](https://numpy.org/)
+- [PyTorch](https://pytorch.org/)
+
+Feel free to contribute to this project by creating pull requests or reporting issues.
